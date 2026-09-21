@@ -1,10 +1,6 @@
-﻿using System;
-// Used: https://github.com/sinai-dev/UnityExplorer/blob/master/src/ObjectExplorer/ObjectSearch.cs
-using System.Collections.Generic;
-using System.Text;
+﻿// Used: https://github.com/sinai-dev/UnityExplorer/blob/master/src/ObjectExplorer/ObjectSearch.cs
 using Anchor.Panel;
 using UnityEngine;
-using UnityExplorer.UI.Panels;
 using UniverseLib.UI;
 using UniverseLib.UI.Models;
 

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Repos\\Anchor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|c:\\repos\\anchor\\anchor\\pages\\anchorcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|solutionrelative:anchor\\pages\\anchorcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|c:\\repos\\anchor\\anchor\\pages\\anchoractive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|solutionrelative:anchor\\pages\\anchoractive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -12,10 +16,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|c:\\repos\\anchor\\anchor\\tools\\anchordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|solutionrelative:anchor\\tools\\anchordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|c:\\repos\\anchor\\anchor\\pages\\anchorcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|solutionrelative:anchor\\pages\\anchorcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|c:\\repos\\anchor\\anchor\\panel\\anchorpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,11 +45,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "anchor.json",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Gorilla Tag\\BepInEx\\plugins\\Anchor\\anchor.json",
               "RelativeDocumentMoniker": "..\\..\\Program Files (x86)\\Steam\\steamapps\\common\\Gorilla Tag\\BepInEx\\plugins\\Anchor\\anchor.json",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AnchorData.cs",
               "DocumentMoniker": "C:\\Repos\\Anchor\\Anchor\\Tools\\AnchorData.cs",
               "RelativeDocumentMoniker": "Anchor\\Tools\\AnchorData.cs",
@@ -75,25 +75,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AnchorCreate.cs",
               "DocumentMoniker": "C:\\Repos\\Anchor\\Anchor\\Pages\\AnchorCreate.cs",
               "RelativeDocumentMoniker": "Anchor\\Pages\\AnchorCreate.cs",
               "ToolTip": "C:\\Repos\\Anchor\\Anchor\\Pages\\AnchorCreate.cs",
               "RelativeToolTip": "Anchor\\Pages\\AnchorCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T14:47:01.49Z"
+              "WhenOpened": "2026-09-20T14:47:01.49Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AnchorActive.cs",
               "DocumentMoniker": "C:\\Repos\\Anchor\\Anchor\\Pages\\AnchorActive.cs",
               "RelativeDocumentMoniker": "Anchor\\Pages\\AnchorActive.cs",
-              "ToolTip": "C:\\Repos\\Anchor\\Anchor\\Pages\\AnchorActive.cs*",
-              "RelativeToolTip": "Anchor\\Pages\\AnchorActive.cs*",
-              "ViewState": "AgIAACUAAAAAAAAAAAAcwDwAAAAaAAAAAAAAAA==",
+              "ToolTip": "C:\\Repos\\Anchor\\Anchor\\Pages\\AnchorActive.cs",
+              "RelativeToolTip": "Anchor\\Pages\\AnchorActive.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwC8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-20T14:46:47.138Z",
               "EditorCaption": ""

@@ -280,10 +280,10 @@
       <HintPath>$(GameAssemblyPath)\UnityEngine.XRModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityExplorer.BIE5.Mono">
-      <HintPath>..\..\..\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins\sinai-dev-UnityExplorer\UnityExplorer.BIE5.Mono.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins\Unity\UnityExplorer.BIE5.Mono.dll</HintPath>
     </Reference>
     <Reference Include="UniverseLib.Mono">
-      <HintPath>..\..\..\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins\sinai-dev-UnityExplorer\UniverseLib.Mono.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins\Unity\UniverseLib.Mono.dll</HintPath>
     </Reference>
     <Reference Include="Utilla">
       <HintPath>$(PluginsPath)\Utilla\Utilla.dll</HintPath>

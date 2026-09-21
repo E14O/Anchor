@@ -1,13 +1,10 @@
 ﻿// Used: https://github.com/sinai-dev/UnityExplorer/blob/master/src/ObjectExplorer/ObjectSearch.cs
-using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Reflection;
-using System.Text;
 using Anchor.Panel;
 using Anchor.Tools;
 using UnityEngine;
-using UnityExplorer.ObjectExplorer;
 using UniverseLib.UI;
 using UniverseLib.UI.Models;
 using UniverseLib.UI.Widgets.ButtonList;
@@ -69,7 +66,7 @@ namespace Anchor.Pages
 
             dataHandler = new ButtonListHandler<AnchorData, ButtonCell>(scrollPool, () => anchors, SetCell, ShouldDisplayCell, OnCellClicked);
 
-            scrollPool = UIFactory.CreateScrollPool<ButtonCell>(uiRoot,"AnchorList", out GameObject scrollObj, out GameObject scrollContent);
+            scrollPool = UIFactory.CreateScrollPool<ButtonCell>(uiRoot, "AnchorList", out GameObject scrollObj, out GameObject scrollContent);
 
             scrollPool.Initialize(dataHandler);
 

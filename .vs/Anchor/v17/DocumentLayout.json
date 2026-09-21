@@ -1,40 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Repos\\Anchor\\",
+  "WorkspaceRootPath": "C:\\Users\\Ashto\\Downloads\\GorillatagModsSLNS\\Anchor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|c:\\repos\\anchor\\anchor\\pages\\anchorcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|solutionrelative:anchor\\pages\\anchorcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|c:\\users\\ashto\\downloads\\gorillatagmodsslns\\anchor\\anchor\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|solutionrelative:anchor\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|c:\\repos\\anchor\\anchor\\pages\\anchoractive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|c:\\users\\ashto\\downloads\\gorillatagmodsslns\\anchor\\anchor\\tools\\anchordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|solutionrelative:anchor\\tools\\anchordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|c:\\users\\ashto\\downloads\\gorillatagmodsslns\\anchor\\anchor\\panel\\anchorpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|solutionrelative:anchor\\panel\\anchorpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|c:\\users\\ashto\\downloads\\gorillatagmodsslns\\anchor\\anchor\\pages\\anchoractive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|solutionrelative:anchor\\pages\\anchoractive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|c:\\users\\ashto\\downloads\\gorillatagmodsslns\\anchor\\anchor\\pages\\anchorcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|solutionrelative:anchor\\pages\\anchorcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Gorilla Tag\\BepInEx\\plugins\\Anchor\\anchor.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|c:\\repos\\anchor\\anchor\\tools\\anchordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|solutionrelative:anchor\\tools\\anchordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|c:\\repos\\anchor\\anchor\\panel\\anchorpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|solutionrelative:anchor\\panel\\anchorpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|c:\\repos\\anchor\\anchor\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|solutionrelative:anchor\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|c:\\repos\\anchor\\anchor\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|c:\\users\\ashto\\downloads\\gorillatagmodsslns\\anchor\\anchor\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|solutionrelative:anchor\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|c:\\repos\\anchor\\anchor\\tools\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|c:\\users\\ashto\\downloads\\gorillatagmodsslns\\anchor\\anchor\\tools\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|solutionrelative:anchor\\tools\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|c:\\repos\\anchor\\anchor\\anchor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|c:\\users\\ashto\\downloads\\gorillatagmodsslns\\anchor\\anchor\\anchor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7A4A0A3D-1ECF-4BD5-9798-86705F935DDF}|Anchor\\Anchor.csproj|solutionrelative:anchor\\anchor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -45,56 +45,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "anchor.json",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Gorilla Tag\\BepInEx\\plugins\\Anchor\\anchor.json",
-              "RelativeDocumentMoniker": "..\\..\\Program Files (x86)\\Steam\\steamapps\\common\\Gorilla Tag\\BepInEx\\plugins\\Anchor\\anchor.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Steam\\steamapps\\common\\Gorilla Tag\\BepInEx\\plugins\\Anchor\\anchor.json",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Gorilla Tag\\BepInEx\\plugins\\Anchor\\anchor.json",
-              "RelativeToolTip": "..\\..\\Program Files (x86)\\Steam\\steamapps\\common\\Gorilla Tag\\BepInEx\\plugins\\Anchor\\anchor.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\Steam\\steamapps\\common\\Gorilla Tag\\BepInEx\\plugins\\Anchor\\anchor.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-20T15:52:16.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-20T15:52:16.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "AnchorData.cs",
-              "DocumentMoniker": "C:\\Repos\\Anchor\\Anchor\\Tools\\AnchorData.cs",
+              "DocumentMoniker": "C:\\Users\\Ashto\\Downloads\\GorillatagModsSLNS\\Anchor\\Anchor\\Tools\\AnchorData.cs",
               "RelativeDocumentMoniker": "Anchor\\Tools\\AnchorData.cs",
-              "ToolTip": "C:\\Repos\\Anchor\\Anchor\\Tools\\AnchorData.cs",
+              "ToolTip": "C:\\Users\\Ashto\\Downloads\\GorillatagModsSLNS\\Anchor\\Anchor\\Tools\\AnchorData.cs",
               "RelativeToolTip": "Anchor\\Tools\\AnchorData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-20T15:23:43.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "AnchorCreate.cs",
-              "DocumentMoniker": "C:\\Repos\\Anchor\\Anchor\\Pages\\AnchorCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Ashto\\Downloads\\GorillatagModsSLNS\\Anchor\\Anchor\\Pages\\AnchorCreate.cs",
               "RelativeDocumentMoniker": "Anchor\\Pages\\AnchorCreate.cs",
-              "ToolTip": "C:\\Repos\\Anchor\\Anchor\\Pages\\AnchorCreate.cs",
+              "ToolTip": "C:\\Users\\Ashto\\Downloads\\GorillatagModsSLNS\\Anchor\\Anchor\\Pages\\AnchorCreate.cs",
               "RelativeToolTip": "Anchor\\Pages\\AnchorCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-20T14:47:01.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AnchorActive.cs",
-              "DocumentMoniker": "C:\\Repos\\Anchor\\Anchor\\Pages\\AnchorActive.cs",
+              "DocumentMoniker": "C:\\Users\\Ashto\\Downloads\\GorillatagModsSLNS\\Anchor\\Anchor\\Pages\\AnchorActive.cs",
               "RelativeDocumentMoniker": "Anchor\\Pages\\AnchorActive.cs",
-              "ToolTip": "C:\\Repos\\Anchor\\Anchor\\Pages\\AnchorActive.cs",
+              "ToolTip": "C:\\Users\\Ashto\\Downloads\\GorillatagModsSLNS\\Anchor\\Anchor\\Pages\\AnchorActive.cs",
               "RelativeToolTip": "Anchor\\Pages\\AnchorActive.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAIwC8AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-20T14:46:47.138Z",
               "EditorCaption": ""
@@ -103,9 +102,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Logger.cs",
-              "DocumentMoniker": "C:\\Repos\\Anchor\\Anchor\\Tools\\Logger.cs",
+              "DocumentMoniker": "C:\\Users\\Ashto\\Downloads\\GorillatagModsSLNS\\Anchor\\Anchor\\Tools\\Logger.cs",
               "RelativeDocumentMoniker": "Anchor\\Tools\\Logger.cs",
-              "ToolTip": "C:\\Repos\\Anchor\\Anchor\\Tools\\Logger.cs",
+              "ToolTip": "C:\\Users\\Ashto\\Downloads\\GorillatagModsSLNS\\Anchor\\Anchor\\Tools\\Logger.cs",
               "RelativeToolTip": "Anchor\\Tools\\Logger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -113,35 +112,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "AnchorPanel.cs",
-              "DocumentMoniker": "C:\\Repos\\Anchor\\Anchor\\Panel\\AnchorPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Ashto\\Downloads\\GorillatagModsSLNS\\Anchor\\Anchor\\Panel\\AnchorPanel.cs",
               "RelativeDocumentMoniker": "Anchor\\Panel\\AnchorPanel.cs",
-              "ToolTip": "C:\\Repos\\Anchor\\Anchor\\Panel\\AnchorPanel.cs",
+              "ToolTip": "C:\\Users\\Ashto\\Downloads\\GorillatagModsSLNS\\Anchor\\Anchor\\Panel\\AnchorPanel.cs",
               "RelativeToolTip": "Anchor\\Panel\\AnchorPanel.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T11:38:21.15Z"
+              "WhenOpened": "2026-09-20T11:38:21.15Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Constants.cs",
-              "DocumentMoniker": "C:\\Repos\\Anchor\\Anchor\\Constants.cs",
+              "DocumentMoniker": "C:\\Users\\Ashto\\Downloads\\GorillatagModsSLNS\\Anchor\\Anchor\\Constants.cs",
               "RelativeDocumentMoniker": "Anchor\\Constants.cs",
-              "ToolTip": "C:\\Repos\\Anchor\\Anchor\\Constants.cs",
+              "ToolTip": "C:\\Users\\Ashto\\Downloads\\GorillatagModsSLNS\\Anchor\\Anchor\\Constants.cs",
               "RelativeToolTip": "Anchor\\Constants.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T11:37:51.027Z"
+              "WhenOpened": "2026-09-20T11:37:51.027Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Anchor.csproj",
-              "DocumentMoniker": "C:\\Repos\\Anchor\\Anchor\\Anchor.csproj",
+              "DocumentMoniker": "C:\\Users\\Ashto\\Downloads\\GorillatagModsSLNS\\Anchor\\Anchor\\Anchor.csproj",
               "RelativeDocumentMoniker": "Anchor\\Anchor.csproj",
-              "ToolTip": "C:\\Repos\\Anchor\\Anchor\\Anchor.csproj",
+              "ToolTip": "C:\\Users\\Ashto\\Downloads\\GorillatagModsSLNS\\Anchor\\Anchor\\Anchor.csproj",
               "RelativeToolTip": "Anchor\\Anchor.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -151,9 +152,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Plugin.cs",
-              "DocumentMoniker": "C:\\Repos\\Anchor\\Anchor\\Plugin.cs",
+              "DocumentMoniker": "C:\\Users\\Ashto\\Downloads\\GorillatagModsSLNS\\Anchor\\Anchor\\Plugin.cs",
               "RelativeDocumentMoniker": "Anchor\\Plugin.cs",
-              "ToolTip": "C:\\Repos\\Anchor\\Anchor\\Plugin.cs",
+              "ToolTip": "C:\\Users\\Ashto\\Downloads\\GorillatagModsSLNS\\Anchor\\Anchor\\Plugin.cs",
               "RelativeToolTip": "Anchor\\Plugin.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAQwCcAAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
